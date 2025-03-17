@@ -28,6 +28,7 @@ let CONFIG = {
 Installation
 
 Das Skript auf ein Shelly-Gerät hochladen.
+![image](https://github.com/user-attachments/assets/7da88dbb-5fd1-4d6b-a3c2-0f5bbef31dba)
 
 Verwendung
 
@@ -43,3 +44,5 @@ Debugging
 Über die Shelly-Weboberfläche kann die Skriptausgabe überprüft werden.
 
 Das Skript gibt Statusmeldungen über print() aus.
+
+
